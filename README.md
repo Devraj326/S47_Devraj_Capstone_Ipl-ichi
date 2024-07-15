@@ -1,35 +1,44 @@
-# S47_Devraj_Capstone_Ipl-ichi
+# IPL-ichi
 
 ## Overview
-- Ipl-ichi is a combo of Food delhivery app and Cricket, Here you can se upcoming matches of Famous league of India which is Ipl(Indian premear league) and you can see all the teams and player, where the match is going to happen and the date. You can order the food of of the city where the match is going to happen the loacl and authentic food every city has a different food and so ipl-ichi provides. You can make payments through safe payment gateway RAZORPAY and there is a secure authentication.
+**IPL-ichi** is a unique combination of a food delivery app and cricket information hub. You can view upcoming matches of the famous Indian Premier League (IPL), see details about all the teams and players, and get information on match locations and dates. Additionally, you can order local and authentic food from the city where the match is happening. IPL-ichi ensures a seamless and secure user experience with Razorpay payment gateway and robust authentication.
 
-  
 ## Tech Stack
-Front-End: React.js
-Back-End: Node.js, Express.js
-Database: MongoDB
+- **Front-End:** React.js
+- **Back-End:** Node.js, Express.js
+- **Database:** MongoDB
 
-Getting Started
-Prerequisites
+## Getting Started
+
+### Prerequisites
 Ensure you have the following installed on your machine:
+- **Node.js**
+- **npm**
 
-Node.js
-npm
-Installation
-Clone the Repository
-git clone https://github.com/kalviumcommunity/S47_Janhavi_Chauhan_Capstone_IntellectCoin.git
-cd your-repository
-Install Server Dependencies and Start the Server
-cd server
-npm install
-npm start
-Install Client Dependencies and Start the Client
-cd client
-npm install
-npm run dev
+### Installation
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/kalviumcommunity/S47_Devraj_Capstone_Ipl-ichi.git
+    cd S47_Devraj_Capstone_Ipl-ichi
+    ```
+
+2. **Install Server Dependencies and Start the Server:**
+    ```bash
+    cd server
+    npm install
+    npm start
+    ```
+
+3. **Install Client Dependencies and Start the Client:**
+    ```bash
+    cd ../client
+    npm install
+    npm run dev
+    ```
 
 ## Connect with Us
 
-LinkedIn : [Devraj Patil](https://www.linkedin.com/in/devraj-patil-5915802b2/)
-Github: [Devraj Patil](https://github.com/Devraj326)
-[Deployed Link](https://ipl-ichi.vercel.app/)
+- **LinkedIn:** [Devraj Patil](https://www.linkedin.com/in/devraj-patil-5915802b2/)
+- **GitHub:** [Devraj Patil](https://github.com/Devraj326)
+- **Deployed Link:** [IPL-ichi](https://ipl-ichi.vercel.app/)
